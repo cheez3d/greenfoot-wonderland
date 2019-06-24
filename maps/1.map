@@ -1,0 +1,30 @@
+110 220 255
+
+5
+Bun venit in {0xff0000}W{0xff6303}o{0xf6fd00}n{0xd1ff00}d{0x2bff15}e{0x00ffff}r{0x00dcff}l{0x0098ff}a{0xc500fd}n{0xef23ec}d{0xffffff}!{n}{n}Utilizeaza sagetile pentru a te misca.{n}Strange toate {0xc500fd}Monedele Curcubeu{0xffffff} pentru a finaliza nivelul.{n}{n}Mult noroc!
+{0xd19b78}Cutiile{0xffffff} pot fi impinse.{n}Impinge aceasta cutie in lateral pentru a elibera drumul.
+{0xd19b78}O cutie{0xffffff} poate fi impinsa doar daca in fata acesteia{n}nu se afla niciun obstacol.
+Iti poti creste scorul obtinut intr-un nivel{n}prin colectarea de {0xa14c00}Puncte Bonus{0xffffff}.
+Aproape ai terminat!{n}Odata ce toate {0xc500fd}Monedele Curcubeu{0xffffff} au fost stranse{n}{0xc500fd}Poarta Curcubeu{0xffffff} se va deschide.{n}{n}Pentru a finaliza nivelul intra in {0xc500fd}Portal{0xffffff}.
+
+20 18
+1 0		1 0		1 0			1 0		1 0		0 0			0 0		0 0		0 0			1 0		1 0		1 0			1 0		1 0		1 0		1 0			1 0		1 0
+1 0		2:0 0	2:0 0		2:0 0	1 0		0 0			0 0		0 0		0 0			1 0		2:0 0	2:0 0		2:0 0	1 0		1 0		2:0 6		1 0		1 0
+1 0		2:0 0	2:0 0		2:0 0	2:0 0	2:0 2		2:0 2	2:0 2	2:0 2		2:0 0	2:0 0	2:1:0 1:1	2:0 0	1 0		1 0		2:0 0		1 0		1 0
+1 0		2:0 0	2:0 0		2:0 0	1 0		0 0			0 0		0 0		0 0			1 0		2:0 0	2:0 0		2:0 0	1 0		1 0		2:0 5:0		1 0		1 0
+1 0		1 0		2:0 0		1 0		1 0		0 0			0 0		0 0		0 0			1 0		1 0		1 0			1 0		1 0		2:0 2	2:0 0		2:0 2	1 0
+1 0		2:0 0	2:0 0		2:0 0	1 0		0 0			0 0		0 0		0 0			0 0		0 0		0 0			0 0		1 0		2:0 0	2:0 0		2:0 0	1 0
+1 0		2:0 0	2:1:1 0		2:0 0	1 0		0 0			0 0		0 0		0 0			0 0		0 0		0 0			0 0		1 0		2:0 0	2:1:4 0		2:0 0	1 0
+1 0		2:0 0	2:0 3		2:0 0	1 0		0 0			0 0		0 0		0 0			0 0		0 0		0 0			0 0		0 0		1 0		2:0 0		1 0		0 0
+1 0		1 0		2:0 2		1 0		1 0		0 0			0 0		0 0		0 0			0 0		0 0		0 0			0 0		0 0		1 0		2:0 2		1 0		0 0
+0 0		1 0		2:0 0		1 0		0 0		0 0			1 0		1 0		1 0			1 0		1 0		0 0			0 0		1 0		2:0 0	2:0 0		2:0 0	1 0
+0 0		1 0		2:0 0		1 0		0 0		0 0			1 0		2:0 4	2:0 4		2:0 4	1 0		0 0			0 0		1 0		2:0 0	1 0			2:0 0	1 0
+0 0		1 0		2:0 2		1 0		0 0		0 0			1 0		2:0 0	2:0 0		2:0 0	1 0		0 0			0 0		1 0		2:0 0	2:0 4		2:0 0	1 0
+0 0		1 0		2:0 0		1 0		0 0		0 0			1 0		2:0 0	2:0 0		2:0 0	1 0		0 0			0 0		1 0		2:0 0	1 0			2:0 0	1 0
+0 0		1 0		2:0 0		1 0		0 0		0 0			1 0		1 0		2:1:3 0		1 0		1 0		0 0			0 0		1 0		2:0 0	2:0 0		2:0 0	1 0
+0 0		1 0		2:0 2		1 0		0 0		0 0			0 0		1 0		2:0 0		1 0		0 0		0 0			0 0		1 0		1 0		2:0 2		1 0		1 0
+0 0		1 0		2:0 0		1 0		1 0		1 0			1 0		1 0		2:0 0		1 0		1 0		1 0			1 0		0 0		0 0		2:0 0		0 0		0 0
+0 0		1 0		2:0 0		1 0		2:0 0	2:0 0		2:0 3	2:0 0	2:0 0		2:0 0	2:0 3	2:0 0		1 0		0 0		0 0		2:0 0		0 0		0 0
+0 0		1 0		2:0 0		2:0 0	2:0 0	2:1:2 0		2:0 0	2:0 3	2:0 3		2:0 3	2:0 0	2:0 3		2:0 0	2:0 0	2:0 0	2:0 0		0 0		0 0
+0 0		1 0		1 0			1 0		2:0 0	2:0 0		2:0 3	2:0 3	2:0 0		2:0 0	2:0 0	2:0 0		1 0		0 0		0 0		0 0			0 0		0 0
+0 0		0 0		0 0			1 0		1 0		1 0			1 0		1 0		1 0			1 0		1 0		1 0			1 0		0 0		0 0		0 0			0 0		0 0
